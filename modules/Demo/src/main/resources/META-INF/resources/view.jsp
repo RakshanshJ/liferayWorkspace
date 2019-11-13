@@ -4,4 +4,6 @@
 	<b><liferay-ui:message key="demo.caption"/></b>
 	
 	Here we are testing DevOps setup!!!
+	
+	Checking for jenkins....
 </p>
